@@ -9,3 +9,8 @@
 ## Anything Blocking?
 
 > No blockages
+
+
+## NOTE
+
+> I forgot about rcos status updates and forgot to update as I go, status updates including and beyond this update are based off memory
